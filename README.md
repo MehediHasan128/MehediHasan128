@@ -1,3 +1,4 @@
+![logo](https://github.com/MehediHasan128/MehediHasan128/blob/main/Cover.png)
 <h1 align="center">Hi 👋, I'm Mehedi Hasan Bayzid</h1>
 <h3 align="center">A junior full stack developer from Bangladesh.</h3>
 
