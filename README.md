@@ -28,6 +28,8 @@
   </a>
 </div>
 
+<hr />
+<h2 align="center">Stats</h2>
 <div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihasan128&" alt="mehedihasan128" /></p>
 
