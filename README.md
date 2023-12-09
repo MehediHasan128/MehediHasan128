@@ -1,6 +1,7 @@
 ![logo](Cover2.png)
 <h1 align="center">Hi, I'm Mehedi Hasan Bayzid</h1>
-<h3 align="center">A junior full stack developer from Bangladesh.</h3>
+<h3 align="center">A MERN stack developer from Bangladesh.</h3>
+<h6 align="center">Hi, I'm Mehedi Hasan a student of Computer Science and Engineering engineering. <br> Now i'm working on MERN Stack project using mongodb, express js, react and node js.</h6>
 <br>
 
 <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="developer" align="right" width="400" />
@@ -34,7 +35,7 @@
 </div>
 
 <hr />
-<h2 align="center">Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 <div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihasan128&" alt="mehedihasan128" /></p>
 
