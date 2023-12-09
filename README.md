@@ -1,6 +1,7 @@
 ![logo](Cover2.png)
 <h1 align="center">Hi, I'm Mehedi Hasan Bayzid</h1>
 <h3 align="center">A junior full stack developer from Bangladesh.</h3>
+<br>
 
 <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="developer" align="right" width="400" />
 
