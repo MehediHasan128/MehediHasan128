@@ -1,10 +1,12 @@
-![logo](https://github.com/MehediHasan128/MehediHasan128/blob/main/Cover.png)
+![logo]([https://github.com/MehediHasan128/MehediHasan128/blob/main/Cover.png](https://github.com/MehediHasan128/MehediHasan128/blob/main/Cover2.png))
 <h1 align="center">Hi 👋, I'm Mehedi Hasan Bayzid</h1>
 <h3 align="center">A junior full stack developer from Bangladesh.</h3>
 
 <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="developer" align="right" width="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedihasan128&label=Profile%20views&color=0e75b6&style=flat" alt="mehedihasan128" /> </p>
+
+- 🔭 I’m currently working on: Beautiful MERN Stack Project which is Real Estate Company **Paramount Estates**
 
 - 🌱 I’m currently learning **Next.js**
 
