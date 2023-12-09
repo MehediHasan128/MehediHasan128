@@ -37,9 +37,9 @@
 <hr />
 <h2 align="center">GitHub Stats</h2>
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihasan128&" alt="mehedihasan128" /></p>
+  <p><img align="left" width=480 src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihasan128&" alt="mehedihasan128" /></p>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedihasan128&show_icons=true&locale=en" alt="mehedihasan128" /></p>
+  <p>&nbsp;<img align="right" width=480 src="https://github-readme-stats.vercel.app/api?username=mehedihasan128&show_icons=true&locale=en" alt="mehedihasan128" /></p>
 
-   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedihasan128&show_icons=true&locale=en&layout=compact" alt="mehedihasan128" /></p>  
+   <p><img align="left" width=480 src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedihasan128&show_icons=true&locale=en&layout=compact" alt="mehedihasan128" /></p>  
 </div>
