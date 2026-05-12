@@ -1,28 +1,32 @@
-### Hi there 👋, I'm Mehedi Hasan Baized
-#### Full Stack MERN Developer | Building Modern Web Experiences
-![Full Stack MERN Developer | Building Modern Web Experiences](https://raw.githubusercontent.com/MehediHasan128/MehediHasan128/refs/heads/main/banner.png)
+<h1 align="center">Hi 👋, I'm Mehedi Hasan Baized</h1>
+<h3 align="center">Full Stack MERN Developer | Building Modern Web Experiences</h3>
 
-Passionate Full Stack MERN Developer focused on building modern, scalable, and user-friendly web applications. Skilled in React, Next.js, TypeScript, Node.js, Express.js, and MongoDB with experience in creating responsive UIs, secure backend systems, REST APIs, and payment integrations. I enjoy solving real-world problems, learning new technologies, and turning ideas into powerful digital experiences.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedihasan128&label=Profile%20views&color=0e75b6&style=flat" alt="mehedihasan128" /> </p>
 
-- 🌱 I’m currently learning Advanced Next.js, System Design, and Scalable Backend Architecture 
-- 🤔 I’m looking for help with I’m looking for help with improving system design and scalable backend architecture 
-- 💬 Ask me about MERN Stack Development, React, Next.js, and REST APIs 
-- 📫 How to reach me: mehedihasanbaized@gmail.com 
-- 😄 Pronouns: he/him 
-- ⚡ Fun fact: I enjoy solving backend problems as much as designing beautiful UIs 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedihasan128" alt="mehedihasan128" /></a> </p>
 
+- 🌱 I’m currently learning **Advanced Next.js, System Design, and Scalable Backend Architecture**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MehediHasan128)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mehedi-hasan-baized-5620b0383/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mehedi.hasan.376594)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mehedi.heic/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mhdevs.vercel.app/)  
+- 👨‍💻 All of my projects are available at [https://mhdevs.vercel.app/](https://mhdevs.vercel.app/)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MehediHasan128)](https://github.com/ryo-ma/github-profile-trophy)
+- 💬 Ask me about **MERN Stack Development, React, Next.js, and REST APIs**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehediHasan128)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 How to reach me **mehedihasanbaized@gmail.com**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MehediHasan128&show_icons=true)  
+- ⚡ Fun fact **I enjoy creating modern and smooth user interfaces**
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/MehediHasan128/contributions?format=svg&private=false)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mehedi-hasan-baized-5620b0383" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehedi-hasan-baized-5620b0383" height="30" width="40" /></a>
+<a href="https://fb.com/mehedi.hasan.376594" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mehedi.hasan.376594" height="30" width="40" /></a>
+<a href="https://instagram.com/mehedi.heic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehedi.heic" height="30" width="40" /></a>
+</p>
 
-![GitHub metrics](https://metrics.lecoq.io/MehediHasan128)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=MehediHasan128)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedihasan128&show_icons=true&locale=en&layout=compact" alt="mehedihasan128" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedihasan128&show_icons=true&locale=en" alt="mehedihasan128" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihasan128&" alt="mehedihasan128" /></p>
