@@ -1,32 +1,42 @@
-<h1 align="center">Hi 👋, I'm Mehedi Hasan Baized</h1>
-<h3 align="center">Full Stack MERN Developer | Building Modern Web Experiences</h3>
+![logo](Cover2.png)
+<h1 align="center">Hi, I'm Mehedi Hasan Bayzid</h1>
+<h3 align="center">A MERN stack developer from Bangladesh.</h3>
+<h6 align="center">Hi, I'm Mehedi Hasan a student of Computer Science and Engineering engineering. <br> Now i'm working on MERN Stack project using mongodb, express js, react and node js.</h6>
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedihasan128&label=Profile%20views&color=0e75b6&style=flat" alt="mehedihasan128" /> </p>
+<img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="developer" align="right" width="400" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedihasan128" alt="mehedihasan128" /></a> </p>
+<p align="left"> <img src="https://raw.githubusercontent.com/MehediHasan128/MehediHasan128/refs/heads/main/banner.png" alt="mehedihasan128" /> </p>
 
-- 🌱 I’m currently learning **Advanced Next.js, System Design, and Scalable Backend Architecture**
+- 🔭 I’m currently working on: Beautiful MERN Stack Project which is Real Estate Company **Paramount Estates**
 
-- 👨‍💻 All of my projects are available at [https://mhdevs.vercel.app/](https://mhdevs.vercel.app/)
+- 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **MERN Stack Development, React, Next.js, and REST APIs**
+- 💬 Ask me about **React, Mongodb, node, JavaScript**
 
-- 📫 How to reach me **mehedihasanbaized@gmail.com**
+- 📫 How to reach me **mehedihasan120255@gmail.com**
 
-- ⚡ Fun fact **I enjoy creating modern and smooth user interfaces**
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mehedi-hasan-baized-5620b0383" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehedi-hasan-baized-5620b0383" height="30" width="40" /></a>
-<a href="https://fb.com/mehedi.hasan.376594" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mehedi.hasan.376594" height="30" width="40" /></a>
-<a href="https://instagram.com/mehedi.heic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehedi.heic" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" display="flex"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedihasan128&show_icons=true&locale=en&layout=compact" alt="mehedihasan128" /></p>
+<h3 align="center">Languages and Tools:</h3>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,figma,firebase,github,vscode" />
+  </a>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedihasan128&show_icons=true&locale=en" alt="mehedihasan128" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihasan128&" alt="mehedihasan128" /></p>
+<hr />
+<h2 align="center">GitHub Stats</h2>
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MehediHasan128&show+icons=true&count_private=true&hide_border=true&title_color=14DE9D&icon_color=14DE9D&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehediHasan128&layout=compact&hide_border=true&title_color=14DE9D&text_color=c9d1d9&bg_color=0d1117" />
+</div>
