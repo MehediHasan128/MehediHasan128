@@ -65,6 +65,12 @@ I'm **Mehedi Hasan Baized** — Passionate Full Stack **MERN Developer** focused
 
 </div>
 
+<p align="center">
+  <a href="https://github.com/mehediHasan128">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mehediHasan128&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
 ---
 
 ## 📊 GitHub Stats
