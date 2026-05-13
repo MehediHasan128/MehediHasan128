@@ -20,6 +20,10 @@
 
 ## 👨‍💻 About Me
 
+<table>
+<tr>
+<td valign="top" width="60%">
+
 I'm **Mehedi Hasan Baized** — a passionate **Full Stack MERN Developer** based in Dhaka, Bangladesh. I love building modern, responsive web applications with clean code and smooth user experiences.
 
 - 🌱 **Currently Learning:** Advanced Next.js, System Design & Scalable Backend Architecture
@@ -27,6 +31,15 @@ I'm **Mehedi Hasan Baized** — a passionate **Full Stack MERN Developer** based
 - 💬 **Ask me about:** MERN Stack, React, Next.js & REST APIs
 - 📫 **Email:** [mehedihasanbaized@gmail.com](mailto:mehedihasanbaized@gmail.com)
 - ⚡ **Fun Fact:** I enjoy creating modern and smooth user interfaces!
+
+</td>
+<td valign="center" width="40%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer GIF" />
+
+</td>
+</tr>
+</table>
 
 ---
 
