@@ -83,5 +83,5 @@ I'm **Mehedi Hasan Baized** — a passionate **Full Stack MERN Developer** based
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d6e5e,50:1a9e80,100:a8ddc9&height=120&section=footer" />
 </div>
