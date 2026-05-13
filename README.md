@@ -76,9 +76,6 @@ I'm **Mehedi Hasan Baized** — Passionate Full Stack **MERN Developer** focused
   <img src="https://streak-stats.demolab.com/?user=mehediHasan128&theme=nightowl&hide_border=true&cache_seconds=86400" alt="mehediHasan128's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=mehediHasan128&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mehedi Hasan Baized's GitHub Trophies" />
-</p>
-<p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=mehediHasan128&theme=nightowl&radius=10" alt="mehediHasan128's Activity Graph" />
 </p>
 
