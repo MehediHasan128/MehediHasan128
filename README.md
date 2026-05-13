@@ -3,6 +3,8 @@
 <!-- Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mehedi%20Hasan%20Baized&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20Building%20Modern%20Web%20Experiences&descAlignY=58&descSize=18&animation=fadeIn" />
 
+<img src="https://raw.githubusercontent.com/MehediHasan128/MehediHasan128/refs/heads/main/banner.png" alt="banner-image" />
+
 <!-- Profile Views -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=mehedihasan128&label=Profile%20Views&color=302b63&style=for-the-badge" alt="Profile Views" />
