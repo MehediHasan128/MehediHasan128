@@ -24,7 +24,8 @@
 <tr>
 <td valign="top" width="60%">
 
-I'm **Mehedi Hasan Baized** — a passionate **Full Stack MERN Developer** based in Dhaka, Bangladesh. I love building modern, responsive web applications with clean code and smooth user experiences.
+I'm **Mehedi Hasan Baized** — Passionate Full Stack **MERN Developer** focused on building modern, scalable, and user-friendly web applications. Skilled in React, Next.js, TypeScript, Node.js, Express.js, and MongoDB with experience in creating responsive UIs, secure backend systems, REST APIs, and payment integrations. I enjoy solving real-world problems, learning new technologies, and turning ideas into powerful digital experiences.
+
 
 - 🌱 **Currently Learning:** Advanced Next.js, System Design & Scalable Backend Architecture
 - 💼 **Portfolio:** [mhdevs.vercel.app](https://mhdevs.vercel.app/)
