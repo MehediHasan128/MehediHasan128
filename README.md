@@ -69,16 +69,18 @@ I'm **Mehedi Hasan Baized** — Passionate Full Stack **MERN Developer** focused
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehedihasan128&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasan128&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihasan128&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <a href="https://github.com/mehediHasan128">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mehediHasan128&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="mehediHasan128's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=mehediHasan128&theme=nightowl&hide_border=true&cache_seconds=86400" alt="mehediHasan128's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=mehediHasan128&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mehedi Hasan Baized's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=mehediHasan128&theme=nightowl&radius=10" alt="mehediHasan128's Activity Graph" />
+</p>
 
 ---
 
